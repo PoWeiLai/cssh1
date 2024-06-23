@@ -1,0 +1,70 @@
+.wrap{
+    width:1920px;
+    height:1080px;
+}
+
+*{
+   font-size: Castoro;
+   font-weight: 400; 
+   letter-spacing: 12%;
+}
+
+h1{ 
+    padding-left:312px;
+    font-size: 128px;
+    line-height: 192px;
+    
+}
+
+.banner p{
+    font-size: 32px;
+    line-height: 48px;
+    width: 636px;
+    height: 336px;
+   
+
+}
+.alignRight{
+    padding-left: 972px;
+}
+.info{
+    font-size: 24px;
+    line-height: 36px;
+}
+.banner{
+    width: 1920px;
+    height: 432px;
+    background-color:#EFEFEF;
+    padding-left: 972px;
+    padding-top:30px;
+}
+
+.pic img{
+    width: 636px;
+    height: 848px;
+    padding-left: 642px;
+}
+.border{
+    border-bottom: 3px solid #AE0000;
+  
+;
+
+}
+h2{
+    color:#AE0000;
+
+}
+.experience{
+    margin-left:312px;
+    width:636px;
+}
+.experience p{
+font-size: 24px;
+line-height: 36px;
+}
+.year{
+   font-size: 20px;
+   line-height: 30px;
+   color:#949494;
+
+}
